@@ -24,7 +24,7 @@
 2.  **Clone the repository:**
 
     ```bash
-    git clone https://your-github-repo-url.git
+    git clone https://github.com/Aditya26002/Healthcare-Dashboard.git
     ```
 
 3.  **Install Dependencies:**
